@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GB_Homework_3</string>
+    <string name="Artist">Исполнитель</string>
+    <string name="Song">Наименование композиции</string>
+</resources>
